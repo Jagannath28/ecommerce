@@ -3,7 +3,7 @@
 ## Overview
 Features:
 - MySQL persistence
-- User signup/login with roles: JOB_SEEKER, RECRUITER, ADMIN
+- User signup/login with roles: JOB_SEEKER,  RECRUITER, ADMIN
 - Job posting CRUD (Recruiters)
 - Job application system (apply & view)
 - Job search (title, location, skills)
