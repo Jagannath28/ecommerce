@@ -34,17 +34,6 @@ This project demonstrates how to create a modular and scalable application using
 ### Database
 - [MongoDB](https://www.mongodb.com/) (running locally)
 
----
-
-## 📸 Project Screenshots
-
-### 🏠 Home Page
-The Landing Page of the Job Portal Platform.
-![Home Page](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/01.png)
-
-### 📝 Job Creating Form Page
-`POST` - Create a new job
-![Job Creating Form Page](https://github.com/Mahmud-Alam/spring-boot-job-portal-app/blob/main/screenshots/02.png)
 
 ### 💼 Job Listings
 `GET` - All job posts Listing here.
