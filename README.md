@@ -122,7 +122,7 @@ cd spring-boot-job-portal-app
 cd backend
 ```
 
-The Spring Boot app will start at **[http://localhost:8080](https://indication-massage-baker-bool.trycloudflare.com/)**
+The Spring Boot app will start at **[http://localhost:8080](https://ecommerce-eyr1.onrender.com)**
 
 
 #### 🧪 Configure Environment
