@@ -143,7 +143,7 @@ npm install
 npm run dev
 ```
 
-The React app will start at **[http://localhost:5173](http://localhost:5173)**
+The React app will start at **[http://localhost:5173](https://ecommerce-2-rpao.onrender.com)**
 
 ---
 
